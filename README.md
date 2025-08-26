@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Amisha Jat
 
-<!--
-**Amishaa-Jat11/Amishaa-jat11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React  
+
+Node.js  
+
+Express.js  
+
+MongoDB  
+
+Java  
+
+
+📚 About Me
+
+I'm a student passionate about web development and currently focusing on mastering full-stack development using the MERN stack.
+
+
+📬 Connect With Me
+
+Feel free to reach out or follow my journey:
+
+- GitHub: [YourGitHubUsername](https://github.com/Amisha-jat11)
+- LinkedIn: [YourLinkedInProfile](www.linkedin.com/in/amishajat) 
+
+---
+
+Thanks for visiting! 🌱
