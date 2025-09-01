@@ -24,7 +24,7 @@ I'm a student passionate about web development and currently focusing on masteri
 
 Feel free to reach out or follow my journey:
 
-- GitHub: https://github.com/Amisha-jat11
+- GitHub: https://github.com/Amishaa-jat11
 - LinkedIn:www.linkedin.com/in/amishajat 
 
 ---
