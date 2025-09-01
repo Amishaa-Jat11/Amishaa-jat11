@@ -24,8 +24,8 @@ I'm a student passionate about web development and currently focusing on masteri
 
 Feel free to reach out or follow my journey:
 
-- GitHub: [YourGitHubUsername](https://github.com/Amisha-jat11)
-- LinkedIn: [YourLinkedInProfile](www.linkedin.com/in/amishajat) 
+- GitHub: https://github.com/Amisha-jat11
+- LinkedIn:www.linkedin.com/in/amishajat 
 
 ---
 
